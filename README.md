@@ -15,15 +15,16 @@ The following **required** functionality is completed:
 * [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/d3Z1Fbp' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+https://github.com/abedin-ashraf/web102_prework/assets/107454977/794db51e-08b0-4d77-93d7-b5422cfc2e56
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
